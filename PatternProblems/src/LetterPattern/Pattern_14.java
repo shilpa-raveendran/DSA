@@ -20,7 +20,7 @@ public class Pattern_14 {
         A B C
         A B
         A
-       */
+        */
         pattern15(n);
 
     }
